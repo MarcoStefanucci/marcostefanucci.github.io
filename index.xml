@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Stefanucci</title>
+    <link>https://marcostefanucci.github.io/</link>
+    <description>Recent content on Marco Stefanucci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing cause-specific mortality trends using compositional functional data analysis</title>
+      <link>https://marcostefanucci.github.io/talks/11/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/11/</guid>
+      <description>UCD Working Group on Statistical Learning, October 2020, Online</description>
+    </item>
+    
+    <item>
+      <title>Kraus, D., Stefanucci, M., Ridge reconstruction of partially observed functional data is asymptotically optimal. Statistics &amp; Probability Letters. 2020,165.</title>
+      <link>https://marcostefanucci.github.io/publications/10/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/10/</guid>
+      <description>link to the paper
+Abstract
+When functional data are observed on parts of the domain, it is of interest to recover the missing parts of curves. Kraus (2015) proposed a linear reconstruction method based on ridge regularization. Kneip and Liebl (2019) argue that an assumption under which Kraus (2015) established the consistency of the ridge method is too restrictive and propose a principal component reconstruction method that they prove to be asymptotically optimal.</description>
+    </item>
+    
+    <item>
+      <title>Overlap Group Lasso for Functional regression</title>
+      <link>https://marcostefanucci.github.io/talks/5/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/5/</guid>
+      <description>EMS 2019, July 2019, Palermo (IT)</description>
+    </item>
+    
+    <item>
+      <title>Stefanucci, M., Canale, A., Multiscale stick-breaking mixture models.</title>
+      <link>https://marcostefanucci.github.io/publications/11/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/11/</guid>
+      <description>Submitted.link</description>
+    </item>
+    
+    <item>
+      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis.</title>
+      <link>https://marcostefanucci.github.io/publications/12/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/12/</guid>
+      <description>Submitted.link</description>
+    </item>
+    
+    <item>
+      <title>Stefanucci, M., Mazzuco, S., Inspecting cause-specific mortality curves by simplicial functional data analysis in Book of Short Papers SIS 2020. Pearson, 2020.</title>
+      <link>https://marcostefanucci.github.io/publications/6/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Multiscale Mixtures of Gaussian kernels for density estimation</title>
+      <link>https://marcostefanucci.github.io/talks/10/</link>
+      <pubDate>Tue, 10 Dec 2019 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/10/</guid>
+      <description>CFE-CMStatistics 2019, December 2019, London (UK)</description>
+    </item>
+    
+    <item>
+      <title>Kraus, D., Stefanucci, M., Classification of functional fragments by regularized linear classifiers with domain selection. Biometrika. 2019,106,1,161–180.</title>
+      <link>https://marcostefanucci.github.io/publications/9/</link>
+      <pubDate>Thu, 10 Oct 2019 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/9/</guid>
+      <description>link to the paper
+Abstract
+We consider classification of functional data into two groups by linear classifiers based on one-dimensional projections of functions. We reformulate the task of finding the best classifier as an optimization problem and solve it by the conjugate gradient method with early stopping, the principal component method, and the ridge method. We study the empirical version with finite training samples consisting of incomplete functions observed on different subsets of the domain and show that the optimal, possibly zero, misclassification probability can be achieved in the limit along a possibly nonconvergent empirical regularization path.</description>
+    </item>
+    
+    <item>
+      <title>Stefanucci, M., Canale, A., Bayesian multiscale mixture of Gaussian kernels for density estimation in Book of Short Papers SIS 2019. Pearson, 2019.</title>
+      <link>https://marcostefanucci.github.io/publications/4/</link>
+      <pubDate>Thu, 10 Oct 2019 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian multiscale mixture of Gaussian kernels for density estimation</title>
+      <link>https://marcostefanucci.github.io/talks/4/</link>
+      <pubDate>Sat, 10 Aug 2019 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/4/</guid>
+      <description>SIS 2019, June 2019, Milan (IT)</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of functional fragments</title>
+      <link>https://marcostefanucci.github.io/talks/3/</link>
+      <pubDate>Mon, 10 Dec 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/3/</guid>
+      <description>CFE-CMStatistics 2018, December 2018, Pisa (IT)</description>
+    </item>
+    
+    <item>
+      <title>Capozzo, A., Ferraccioli, F., Stefanucci, M., Secchi, P., An object oriented approach to Multimodal Imaging Data in Neuroscience, chapter in Studies in Neural Data Science. Springer, 2018.</title>
+      <link>https://marcostefanucci.github.io/publications/7/</link>
+      <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/7/</guid>
+      <description>chapter in &amp;ldquo;Studies in Neural Data Science&amp;rdquo;. Springer, 2018.link</description>
+    </item>
+    
+    <item>
+      <title>Little Bio</title>
+      <link>https://marcostefanucci.github.io/about/bio/</link>
+      <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/about/bio/</guid>
+      <description>bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Stefanucci M., Sangalli L.M., Brutti P., Classification of the Aneurisk65 dataset using PCA for partially observed functional data in Book of Short Papers SIS 2018. Pearson, 2018.</title>
+      <link>https://marcostefanucci.github.io/publications/2/</link>
+      <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefanucci M., Sangalli L.M., Brutti P., PCA‐based discrimination of partially observed functional data, with an application to AneuRisk65 data set. Statistica Neerlandica. 2018,1–19.</title>
+      <link>https://marcostefanucci.github.io/publications/8/</link>
+      <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/8/</guid>
+      <description>link to the paper
+Abstract
+Functional data are usually assumed to be observed on a common domain. However, it is often the case that some portion of the functional data is missing for some statistical unit, invalidating most of the existing techniques for functional data analysis. The development of methods able to handle partially observed or incomplete functional data is currently attracting increasing interest. We here briefly review this literature. We then focus on discrimination based on principal component analysis and illustrate a few possible methods via simulation studies and an application to the AneuRisk65 data set.</description>
+    </item>
+    
+    <item>
+      <title>PCA-based discrimination of partially observed functional data, with an application to Aneurisk65 dataset</title>
+      <link>https://marcostefanucci.github.io/talks/2/</link>
+      <pubDate>Fri, 10 Aug 2018 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/2/</guid>
+      <description>2nd CRoNoS Workshop on Functional Data Analysis, satellite event of COMPSTAT 2018, September 2018, Iasi (RO)</description>
+    </item>
+    
+    <item>
+      <title>Essential CV</title>
+      <link>https://marcostefanucci.github.io/about/essential-cv/</link>
+      <pubDate>Tue, 10 Oct 2017 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/about/essential-cv/</guid>
+      <description>Contacts
+Email: marco.stefanuc@gmail.com
+ Current position
+[2019+] Post Doctoral researcher
+Department of Statistical Sciences, University of Padua
+ Past positions
+[2018-2019] Post Dosctoral researcher
+Department of Statistical Sciences, University of Padua
+ Education
+[2015-2018] PhD in Methodological Statistics
+Department of Statistical Sciences, University of Rome - La Sapienza
+[2012-2015] Master of Science in Statistics
+Department of Statistical Sciences, University of Rome - La Sapienza
+[2009-2012] Bachelor in Statistics
+Department of Statistical Sciences, University of Rome - La Sapienza</description>
+    </item>
+    
+    <item>
+      <title>Regularized classification of functional fragments</title>
+      <link>https://marcostefanucci.github.io/talks/1/</link>
+      <pubDate>Tue, 10 Oct 2017 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/1/</guid>
+      <description>CFE-CMStatistics 2017, December 2017, London (UK)</description>
+    </item>
+    
+    <item>
+      <title>My Collaborators</title>
+      <link>https://marcostefanucci.github.io/about/mycollaboators/</link>
+      <pubDate>Mon, 10 Oct 2016 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/about/mycollaboators/</guid>
+      <description>I&amp;rsquo;ve shared pain and gain with some other researchers in statistics-related fields, most of them are listed here.
+Pierpaolo Brutti, associate professor at University of Rome - La Sapienza
+Antonio Canale, associate professor at University of Padua
+David Kraus, assistant professor at Masaryk University, Brno
+Stefano Mazzuco, associate professor at University of Padua
+Laura Sangalli, associate professor at Polictecnico di Milano</description>
+    </item>
+    
+  </channel>
+</rss>
