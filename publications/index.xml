@@ -20,21 +20,23 @@ When functional data are observed on parts of the domain, it is of interest to r
     </item>
     
     <item>
-      <title>Stefanucci, M., Canale, A., Multiscale stick-breaking mixture models. Accepted in Statistics and Computing</title>
+      <title>Stefanucci, M., Canale, A., Multiscale stick-breaking mixture models. Statistics and Computing, 2021, 31, 13.</title>
       <link>https://marcostefanucci.github.io/publications/11/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/11/</guid>
-      <description>Accepted in Statistics and Computing.link</description>
+      <description>Link to the paper
+Abstract
+Bayesian nonparametric density estimation is dominated by single-scale methods, typically exploiting mixture model specifications, exception made for Pólya trees prior and allied approaches. In this paper we focus on developing a novel family of multiscale stick-breaking mixture models that inherits some of the advantages of both single-scale nonparametric mixtures and Pólya trees. Our proposal is based on a mixture specification exploiting an infinitely deep binary tree of random weights that grows according to a multiscale generalization of a large class of stick-breaking processes; this multiscale stick-breaking is paired with specific stochastic processes generating sequences of parameters that induce stochastically ordered kernel functions.</description>
     </item>
     
     <item>
-      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis.</title>
+      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A</title>
       <link>https://marcostefanucci.github.io/publications/12/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/12/</guid>
-      <description>Submitted.link</description>
+      <description>Accepted in JRSSA.link</description>
     </item>
     
     <item>

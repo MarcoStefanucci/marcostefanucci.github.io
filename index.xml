@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing Cause-Specific Mortality Trends Using Compositional Functional Data Analysis</title>
+      <link>https://marcostefanucci.github.io/talks/6/</link>
+      <pubDate>Wed, 05 May 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/6/</guid>
+      <description>PAA 2021, May 2021, Online</description>
+    </item>
+    
+    <item>
+      <title>Functional data analysis: classification with missing and compositional data</title>
+      <link>https://marcostefanucci.github.io/talks/12/</link>
+      <pubDate>Mon, 15 Mar 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/12/</guid>
+      <description>University of Rome Tor Vergata, March 2021, Online</description>
+    </item>
+    
     <item>
       <title>Analyzing cause-specific mortality trends using compositional functional data analysis</title>
       <link>https://marcostefanucci.github.io/talks/11/</link>
@@ -38,21 +56,23 @@ When functional data are observed on parts of the domain, it is of interest to r
     </item>
     
     <item>
-      <title>Stefanucci, M., Canale, A., Multiscale stick-breaking mixture models. Accepted in Statistics and Computing</title>
+      <title>Stefanucci, M., Canale, A., Multiscale stick-breaking mixture models. Statistics and Computing, 2021, 31, 13.</title>
       <link>https://marcostefanucci.github.io/publications/11/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/11/</guid>
-      <description>Accepted in Statistics and Computing.link</description>
+      <description>Link to the paper
+Abstract
+Bayesian nonparametric density estimation is dominated by single-scale methods, typically exploiting mixture model specifications, exception made for Pólya trees prior and allied approaches. In this paper we focus on developing a novel family of multiscale stick-breaking mixture models that inherits some of the advantages of both single-scale nonparametric mixtures and Pólya trees. Our proposal is based on a mixture specification exploiting an infinitely deep binary tree of random weights that grows according to a multiscale generalization of a large class of stick-breaking processes; this multiscale stick-breaking is paired with specific stochastic processes generating sequences of parameters that induce stochastically ordered kernel functions.</description>
     </item>
     
     <item>
-      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis.</title>
+      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A</title>
       <link>https://marcostefanucci.github.io/publications/12/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/12/</guid>
-      <description>Submitted.link</description>
+      <description>Accepted in JRSSA.link</description>
     </item>
     
     <item>
@@ -126,7 +146,7 @@ We consider classification of functional data into two groups by linear classifi
       <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/about/bio/</guid>
-      <description>I am a postdoctoral researcher in Statistics at University of Padova. I obtained my PhD at University of Rome - La Sapienza under the supervision of professor Pierpaolo Brutti. During and after my PhD I had the chance to collaborate with other researchers, such as David Kraus, Laura Sangalli and Antonio Canale. Currently I am working (together with Stefano Mazzuco from University of Padova) on applying functional data analysis to demographic data in order to discover patterns among countries.</description>
+      <description>I am an Assistant Professor in Statistics at the Department of Business, Economics, Mathematics and Statistics &amp;ldquo;Bruno de Finetti&amp;rdquo;, University of Trieste. Previously I was a postdoctoral researcher at University of Padova. I obtained my PhD at University of Rome - La Sapienza under the supervision of professor Pierpaolo Brutti. During and after my PhD I had the chance to collaborate with other researchers, such as David Kraus, Laura Sangalli, Antonio Canale and Stefano Mazzuco.</description>
     </item>
     
     <item>
@@ -167,17 +187,15 @@ Functional data are usually assumed to be observed on a common domain. However, 
       <description>Contacts
 Email: marco.stefanuc@gmail.com
  Current position
-[2019+] Post Doctoral researcher
-Department of Statistical Sciences, University of Padua
+[2021+] Assistant Professor (RTDA)
+Department of Business, Economics, Mathematics and Statistics &amp;ldquo;Bruno de Finetti&amp;rdquo;, University of Trieste
  Past positions
-[2018-2019] Post Dosctoral researcher
+[2018-2021] Post Dosctoral researcher
 Department of Statistical Sciences, University of Padua
  Education
 [2015-2018] PhD in Methodological Statistics
 Department of Statistical Sciences, University of Rome - La Sapienza
 [2012-2015] Master of Science in Statistics
-Department of Statistical Sciences, University of Rome - La Sapienza
-[2009-2012] Bachelor in Statistics
 Department of Statistical Sciences, University of Rome - La Sapienza</description>
     </item>
     
