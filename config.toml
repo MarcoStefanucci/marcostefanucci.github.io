@@ -1,0 +1,88 @@
+
+baseurl      = "https://marcostefanucci.github.io"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 50
+googleAnalytics = "G-76VPZJFQXL"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  dateformMonth   = "Jan"
+  ty = ["Preprints", "Journal Articles", "Book Chapters", "Conference Proceedings", "Invited", "Contributed"]
+
+
+
+  # Subtitle for home
+  homeSubtitle = "Assistant Professor @ University of Trieste"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[params.portrait]
+     path     = "/marco_bis.jpg"
+     alt      = "Portrait"
+     maxWidth = "350px"
+
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/StefanucciMarco"
+ [[params.social]]
+    name = "googlescholar"
+    url  = "https://scholar.google.com/citations?user=owCS8fgAAAAJ&hl=it"
+ [[params.social]]
+    name = "email"
+    url  = "mailto:marco.stefanuc@gmail.com"
+
+[languages]
+  [languages.en]
+    title = "Marco Stefanucci"
+    subtitle = "University of Padua"
+    keywords = ""
+    #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    #readOtherPosts = "Read other posts" 
+    footerLeft = " "
+    footerRight = " "
+    dateFormatList = "2006-01"
+
+
+    [languages.en.params.logo]
+      logoText = "Home"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+[menu]
+ [[menu.main]]
+    identifier = "About"
+    name       = "About" 
+    url        = "/About"
+  [[menu.main]]
+    identifier = "Publications"
+    name       = "Publications" 
+    url        = "/Publications"
+[[menu.main]]
+    identifier = "Talks"
+    name       = "Talks" 
+    url        = "/Talks"
