@@ -9,6 +9,37 @@
     <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 10 Oct 2020 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally Sparse Function-on-Function Regression. Submitted</title>
+      <link>https://marcostefanucci.github.io/publications/14/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/14/</guid>
+      <description>link to the paper
+Abstract
+In functional data analysis, functional linear regression has attracted significant attention recently. Herein, we consider the case where both the response and covariates are functions. There are two available approaches for addressing such a situation: concurrent and nonconcurrent functional models. In the former, the value of the functional response at a given domain point depends only on the value of the functional regressors evaluated at the same domain point, whereas, in the latter, the functional covariates evaluated at each point of their domain have a non-null effect on the response at any point of its domain.</description>
+    </item>
+    
+    <item>
+      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally sparse functional regression with an application to mortality data in Book of Short Papers SIS 2021. Pearson, 2021.</title>
+      <link>https://marcostefanucci.github.io/publications/6/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Accepted in Chemometrics and Intelligent Laboratory Systems</title>
+      <link>https://marcostefanucci.github.io/publications/13/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/13/</guid>
+      <description>Accepted in ChemoLab.link to the paper
+Abstract
+A chemometric data analysis challenge has been arranged during the first edition of the &amp;ldquo;International Workshop on Spectroscopy and Chemometrics&amp;rdquo;, organized by the Vistamilk SFI Research Centre and held online in April 2021. The aim of the competition was to build a calibration model in order to predict milk quality traits exploiting the information contained in mid-infrared spectra only. Three different traits have been provided, presenting heterogeneous degrees of prediction complexity thus possibly requiring trait-specific modelling choices.</description>
+    </item>
+    
+    <item>
       <title>Kraus, D., Stefanucci, M., Ridge reconstruction of partially observed functional data is asymptotically optimal. Statistics &amp; Probability Letters. 2020,165.</title>
       <link>https://marcostefanucci.github.io/publications/10/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
@@ -36,15 +67,17 @@ Bayesian nonparametric density estimation is dominated by single-scale methods, 
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/12/</guid>
-      <description>Accepted in JRSSA.link</description>
+      <description>Accepted in JRSSA.link to the paper
+Abstract
+We study the dynamics of cause-specific mortality rates among countries by considering them as compositions of functions. We develop a novel framework for such data structure, with particular attention to functional PCA. The application of this method to a subset of the WHO ùmortality database reveals the main modes of variation of cause-specific rates over years for men and women and enables us to perform clustering in the projected subspace.</description>
     </item>
     
     <item>
       <title>Stefanucci, M., Mazzuco, S., Inspecting cause-specific mortality curves by simplicial functional data analysis in Book of Short Papers SIS 2020. Pearson, 2020.</title>
-      <link>https://marcostefanucci.github.io/publications/6/</link>
+      <link>https://marcostefanucci.github.io/publications/5/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
-      <guid>https://marcostefanucci.github.io/publications/6/</guid>
+      <guid>https://marcostefanucci.github.io/publications/5/</guid>
       <description></description>
     </item>
     

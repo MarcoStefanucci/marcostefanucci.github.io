@@ -18,6 +18,24 @@
     </item>
     
     <item>
+      <title>Locally sparse functional regression with an application to mortality data</title>
+      <link>https://marcostefanucci.github.io/talks/7/</link>
+      <pubDate>Wed, 05 May 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/7/</guid>
+      <description>SIS 2021, June 2021, Online</description>
+    </item>
+    
+    <item>
+      <title>Multiscale stick-breaking mixture models</title>
+      <link>https://marcostefanucci.github.io/talks/8/</link>
+      <pubDate>Wed, 05 May 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/8/</guid>
+      <description>ISBA 2021, June 2021, Online</description>
+    </item>
+    
+    <item>
       <title>Functional data analysis: classification with missing and compositional data</title>
       <link>https://marcostefanucci.github.io/talks/12/</link>
       <pubDate>Mon, 15 Mar 2021 16:39:17 +0200</pubDate>
@@ -33,6 +51,15 @@
       
       <guid>https://marcostefanucci.github.io/talks/11/</guid>
       <description>UCD Working Group on Statistical Learning, October 2020, Online</description>
+    </item>
+    
+    <item>
+      <title>Melting Functional and Compositional data analysis to analyze mortality-by-cause trends</title>
+      <link>https://marcostefanucci.github.io/talks/13/</link>
+      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/13/</guid>
+      <description>Data Science and Scientific Computing, University of Trieste, June 2021, Online</description>
     </item>
     
     <item>
