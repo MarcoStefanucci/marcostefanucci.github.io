@@ -7,16 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Sep 2021 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bernardi, M., Canale, A., Stefanucci, M., Locally Sparse Function-on-Function Regression. Submitted</title>
       <link>https://marcostefanucci.github.io/publications/14/</link>
-      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
+      <pubDate>Sat, 25 Sep 2021 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/14/</guid>
       <description>link to the paper
 Abstract
 In functional data analysis, functional linear regression has attracted significant attention recently. Herein, we consider the case where both the response and covariates are functions. There are two available approaches for addressing such a situation: concurrent and nonconcurrent functional models. In the former, the value of the functional response at a given domain point depends only on the value of the functional regressors evaluated at the same domain point, whereas, in the latter, the functional covariates evaluated at each point of their domain have a non-null effect on the response at any point of its domain.</description>
+    </item>
+    
+    <item>
+      <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Accepted in Chemometrics and Intelligent Laboratory Systems</title>
+      <link>https://marcostefanucci.github.io/publications/13/</link>
+      <pubDate>Wed, 01 Sep 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/13/</guid>
+      <description>Accepted in ChemoLab.link to the paper
+Abstract
+A chemometric data analysis challenge has been arranged during the first edition of the &amp;ldquo;International Workshop on Spectroscopy and Chemometrics&amp;rdquo;, organized by the Vistamilk SFI Research Centre and held online in April 2021. The aim of the competition was to build a calibration model in order to predict milk quality traits exploiting the information contained in mid-infrared spectra only. Three different traits have been provided, presenting heterogeneous degrees of prediction complexity thus possibly requiring trait-specific modelling choices.</description>
     </item>
     
     <item>
@@ -26,17 +37,6 @@ In functional data analysis, functional linear regression has attracted signific
       
       <guid>https://marcostefanucci.github.io/publications/6/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Accepted in Chemometrics and Intelligent Laboratory Systems</title>
-      <link>https://marcostefanucci.github.io/publications/13/</link>
-      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
-      
-      <guid>https://marcostefanucci.github.io/publications/13/</guid>
-      <description>Accepted in ChemoLab.link to the paper
-Abstract
-A chemometric data analysis challenge has been arranged during the first edition of the &amp;ldquo;International Workshop on Spectroscopy and Chemometrics&amp;rdquo;, organized by the Vistamilk SFI Research Centre and held online in April 2021. The aim of the competition was to build a calibration model in order to predict milk quality traits exploiting the information contained in mid-infrared spectra only. Three different traits have been provided, presenting heterogeneous degrees of prediction complexity thus possibly requiring trait-specific modelling choices.</description>
     </item>
     
     <item>
