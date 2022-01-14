@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 25 Sep 2021 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Locally sparse function-on-function regression</title>
+      <link>https://marcostefanucci.github.io/talks/15/</link>
+      <pubDate>Wed, 01 Dec 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/15/</guid>
+      <description>CFE-CMStatistics 2021, December 2021, London (UK), Online</description>
+    </item>
+    
+    <item>
+      <title>The association between containment measures implemented by countries across the world and excess mortality linked to Covid-19: a study based on functional data analysis</title>
+      <link>https://marcostefanucci.github.io/talks/14/</link>
+      <pubDate>Fri, 01 Oct 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/14/</guid>
+      <description>SELECT intermediate workshop, University of Venice, October 2021.</description>
+    </item>
+    
     <item>
       <title>Bernardi, M., Canale, A., Stefanucci, M., Locally Sparse Function-on-Function Regression. Submitted</title>
       <link>https://marcostefanucci.github.io/publications/14/</link>
@@ -20,12 +38,12 @@ In functional data analysis, functional linear regression has attracted signific
     </item>
     
     <item>
-      <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Accepted in Chemometrics and Intelligent Laboratory Systems</title>
+      <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Chemometrics and Intelligent Laboratory Systems, 2021, 219.</title>
       <link>https://marcostefanucci.github.io/publications/13/</link>
       <pubDate>Wed, 01 Sep 2021 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/publications/13/</guid>
-      <description>Accepted in ChemoLab.link to the paper
+      <description>link to the paper
 Abstract
 A chemometric data analysis challenge has been arranged during the first edition of the &amp;ldquo;International Workshop on Spectroscopy and Chemometrics&amp;rdquo;, organized by the Vistamilk SFI Research Centre and held online in April 2021. The aim of the competition was to build a calibration model in order to predict milk quality traits exploiting the information contained in mid-infrared spectra only. Three different traits have been provided, presenting heterogeneous degrees of prediction complexity thus possibly requiring trait-specific modelling choices.</description>
     </item>
@@ -46,6 +64,15 @@ A chemometric data analysis challenge has been arranged during the first edition
       
       <guid>https://marcostefanucci.github.io/talks/7/</guid>
       <description>SIS 2021, June 2021, Online</description>
+    </item>
+    
+    <item>
+      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally sparse functional regression with an application to mortality data in Book of Short Papers SIS 2021. Pearson, 2021.</title>
+      <link>https://marcostefanucci.github.io/publications/6/</link>
+      <pubDate>Thu, 10 Jun 2021 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/6/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -82,15 +109,6 @@ A chemometric data analysis challenge has been arranged during the first edition
       
       <guid>https://marcostefanucci.github.io/talks/11/</guid>
       <description>UCD Working Group on Statistical Learning, October 2020, Online</description>
-    </item>
-    
-    <item>
-      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally sparse functional regression with an application to mortality data in Book of Short Papers SIS 2021. Pearson, 2021.</title>
-      <link>https://marcostefanucci.github.io/publications/6/</link>
-      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
-      
-      <guid>https://marcostefanucci.github.io/publications/6/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -206,7 +224,7 @@ We consider classification of functional data into two groups by linear classifi
       <pubDate>Wed, 10 Oct 2018 16:39:17 +0200</pubDate>
       
       <guid>https://marcostefanucci.github.io/about/bio/</guid>
-      <description>I am an Assistant Professor in Statistics at the Department of Business, Economics, Mathematics and Statistics &amp;ldquo;Bruno de Finetti&amp;rdquo;, University of Trieste. Previously I was a postdoctoral researcher at University of Padova. I obtained my PhD at University of Rome - La Sapienza under the supervision of professor Pierpaolo Brutti. During and after my PhD I had the chance to collaborate with other researchers, such as David Kraus, Laura Sangalli, Antonio Canale and Stefano Mazzuco.</description>
+      <description>I am an Assistant Professor in Statistics at the Department of Statistical Sciences, University of Rome - La Sapienza. Previously I was an assistant professor at University of Trieste and postdoctoral researcher at University of Padova. I obtained my PhD at University of Rome - La Sapienza under the supervision of professor Pierpaolo Brutti. During and after my PhD I had the chance to collaborate with other researchers, such as David Kraus, Laura Sangalli, Antonio Canale and Stefano Mazzuco.</description>
     </item>
     
     <item>
@@ -248,15 +266,16 @@ Functional data are usually assumed to be observed on a common domain. However, 
 Email: marco.stefanuc@gmail.com
  Current position
 [2021+] Assistant Professor (RTDA)
-Department of Business, Economics, Mathematics and Statistics &amp;ldquo;Bruno de Finetti&amp;rdquo;, University of Trieste
+Department of Statistical Sciences, University of Rome - La Sapienza
  Past positions
+[2021-2021] Assistant Professor (RTDA)
+Department of Business, Economics, Mathematics and Statistics &amp;ldquo;Bruno de Finetti&amp;rdquo;, University of Trieste
 [2018-2021] Post Dosctoral researcher
 Department of Statistical Sciences, University of Padua
  Education
 [2015-2018] PhD in Methodological Statistics
 Department of Statistical Sciences, University of Rome - La Sapienza
-[2012-2015] Master of Science in Statistics
-Department of Statistical Sciences, University of Rome - La Sapienza</description>
+[2012-2015] Master of Science in Statistics</description>
     </item>
     
     <item>
@@ -270,10 +289,10 @@ Department of Statistical Sciences, University of Rome - La Sapienza</descriptio
     
     <item>
       <title>My Collaborators</title>
-      <link>https://marcostefanucci.github.io/about/mycollaboators/</link>
+      <link>https://marcostefanucci.github.io/about/mycollaborators/</link>
       <pubDate>Mon, 10 Oct 2016 16:39:17 +0200</pubDate>
       
-      <guid>https://marcostefanucci.github.io/about/mycollaboators/</guid>
+      <guid>https://marcostefanucci.github.io/about/mycollaborators/</guid>
       <description>I&amp;rsquo;ve shared pain and gain with some other researchers in statistics-related fields, most of them are listed here.
 Pierpaolo Brutti, associate professor at University of Rome - La Sapienza
 Antonio Canale, associate professor at University of Padua
