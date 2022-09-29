@@ -27,6 +27,17 @@
     </item>
     
     <item>
+      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A, 2022, 185, 61--83</title>
+      <link>https://marcostefanucci.github.io/publications/13/</link>
+      <pubDate>Tue, 10 May 2022 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/publications/13/</guid>
+      <description>link to the paper
+Abstract
+We study the dynamics of cause-specific mortality rates among countries by considering them as compositions of functions. We develop a novel framework for such data structure, with particular attention to functional PCA. The application of this method to a subset of the WHO ùmortality database reveals the main modes of variation of cause-specific rates over years for men and women and enables us to perform clustering in the projected subspace.</description>
+    </item>
+    
+    <item>
       <title>Locally sparse function-on-function regression</title>
       <link>https://marcostefanucci.github.io/talks/15/</link>
       <pubDate>Wed, 01 Dec 2021 16:39:17 +0200</pubDate>
@@ -158,17 +169,6 @@ When functional data are observed on parts of the domain, it is of interest to r
       <description>Link to the paper
 Abstract
 Bayesian nonparametric density estimation is dominated by single-scale methods, typically exploiting mixture model specifications, exception made for Pólya trees prior and allied approaches. In this paper we focus on developing a novel family of multiscale stick-breaking mixture models that inherits some of the advantages of both single-scale nonparametric mixtures and Pólya trees. Our proposal is based on a mixture specification exploiting an infinitely deep binary tree of random weights that grows according to a multiscale generalization of a large class of stick-breaking processes; this multiscale stick-breaking is paired with specific stochastic processes generating sequences of parameters that induce stochastically ordered kernel functions.</description>
-    </item>
-    
-    <item>
-      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A, 2022, 185, 61--83</title>
-      <link>https://marcostefanucci.github.io/publications/13/</link>
-      <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
-      
-      <guid>https://marcostefanucci.github.io/publications/13/</guid>
-      <description>link to the paper
-Abstract
-We study the dynamics of cause-specific mortality rates among countries by considering them as compositions of functions. We develop a novel framework for such data structure, with particular attention to functional PCA. The application of this method to a subset of the WHO ùmortality database reveals the main modes of variation of cause-specific rates over years for men and women and enables us to perform clustering in the projected subspace.</description>
     </item>
     
     <item>
