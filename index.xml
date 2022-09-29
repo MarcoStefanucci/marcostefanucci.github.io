@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 16:39:17 +0200</lastBuildDate><atom:link href="https://marcostefanucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional Regression Models with Interpretable Sparse Structure</title>
+      <link>https://marcostefanucci.github.io/talks/17/</link>
+      <pubDate>Mon, 01 Aug 2022 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/17/</guid>
+      <description>SELECT Climbing Mortality Models workshop, Misurina (IT), August 2022</description>
+    </item>
+    
+    <item>
+      <title>Functional Regression Models with Interpretable Sparse Structure</title>
+      <link>https://marcostefanucci.github.io/talks/16/</link>
+      <pubDate>Wed, 01 Jun 2022 16:39:17 +0200</pubDate>
+      
+      <guid>https://marcostefanucci.github.io/talks/16/</guid>
+      <description>SIS 2022, June 2022, Caserta (IT)</description>
+    </item>
+    
     <item>
       <title>Locally sparse function-on-function regression</title>
       <link>https://marcostefanucci.github.io/talks/15/</link>
@@ -27,7 +45,7 @@
     </item>
     
     <item>
-      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally Sparse Function-on-Function Regression. Submitted</title>
+      <title>Bernardi, M., Canale, A., Stefanucci, M., Locally Sparse Function-on-Function Regression. Accepted in Journal of Computational and Graphical Statistics</title>
       <link>https://marcostefanucci.github.io/publications/14/</link>
       <pubDate>Sat, 25 Sep 2021 16:39:17 +0200</pubDate>
       
@@ -39,10 +57,10 @@ In functional data analysis, functional linear regression has attracted signific
     
     <item>
       <title>Frizzarin, M., Bevilacqua, A., Dhariyal, B., Domijan, K., Ferraccioli, F., Hayes, E., Ifrim, G., Konkolewska, A., Nguyen, T.L., Mbaka, U., Ranzato, G., Singh, A., Stefanucci, M., Casa, A., Mid infrared spectroscopy and milk quality traits: a data analysis competition at the International Workshop on Spectroscopy and Chemometrics 2021. Chemometrics and Intelligent Laboratory Systems, 2021, 219.</title>
-      <link>https://marcostefanucci.github.io/publications/13/</link>
+      <link>https://marcostefanucci.github.io/publications/12/</link>
       <pubDate>Wed, 01 Sep 2021 16:39:17 +0200</pubDate>
       
-      <guid>https://marcostefanucci.github.io/publications/13/</guid>
+      <guid>https://marcostefanucci.github.io/publications/12/</guid>
       <description>link to the paper
 Abstract
 A chemometric data analysis challenge has been arranged during the first edition of the &amp;ldquo;International Workshop on Spectroscopy and Chemometrics&amp;rdquo;, organized by the Vistamilk SFI Research Centre and held online in April 2021. The aim of the competition was to build a calibration model in order to predict milk quality traits exploiting the information contained in mid-infrared spectra only. Three different traits have been provided, presenting heterogeneous degrees of prediction complexity thus possibly requiring trait-specific modelling choices.</description>
@@ -143,12 +161,12 @@ Bayesian nonparametric density estimation is dominated by single-scale methods, 
     </item>
     
     <item>
-      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A</title>
-      <link>https://marcostefanucci.github.io/publications/12/</link>
+      <title>Stefanucci, M., Mazzuco, S., Analyzing cause-specific mortality trends using Compositional Functional Data Analysis. Accepted in Journal of the Royal Statistical Society Series A, 2022, 185, 61--83</title>
+      <link>https://marcostefanucci.github.io/publications/13/</link>
       <pubDate>Sat, 10 Oct 2020 16:39:17 +0200</pubDate>
       
-      <guid>https://marcostefanucci.github.io/publications/12/</guid>
-      <description>Accepted in JRSSA.link to the paper
+      <guid>https://marcostefanucci.github.io/publications/13/</guid>
+      <description>link to the paper
 Abstract
 We study the dynamics of cause-specific mortality rates among countries by considering them as compositions of functions. We develop a novel framework for such data structure, with particular attention to functional PCA. The application of this method to a subset of the WHO ùmortality database reveals the main modes of variation of cause-specific rates over years for men and women and enables us to perform clustering in the projected subspace.</description>
     </item>
@@ -296,7 +314,7 @@ Department of Statistical Sciences, University of Rome - La Sapienza
       <description>I&amp;rsquo;ve shared pain and gain with some other researchers in statistics-related fields, most of them are listed here.
 Pierpaolo Brutti, associate professor at University of Rome - La Sapienza
 Antonio Canale, associate professor at University of Padua
-David Kraus, assistant professor at Masaryk University, Brno
+David Kraus, associate professor at Masaryk University, Brno
 Stefano Mazzuco, associate professor at University of Padua
 Laura Sangalli, associate professor at Polictecnico di Milano</description>
     </item>
